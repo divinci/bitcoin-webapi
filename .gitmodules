@@ -1,0 +1,3 @@
+[submodule "bitcoin"]
+	path = bitcoin
+	url = https://divinci:b96123231e2294ee3f54b18fc7ea3175837088d1@github.com/bitcoin/bitcoin.git
