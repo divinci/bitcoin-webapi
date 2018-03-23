@@ -1,0 +1,1 @@
+A simple WebAPI interface to the Bitcoin core client.
